@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* combined content styles into one class and made the header elements clickable */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -121,7 +121,7 @@ section {
     max-width: 150px;
 }
 
-
+/* combined content styles into one class */
 footer {
     padding: 30px;
     clear: both;
